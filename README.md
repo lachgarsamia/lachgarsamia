@@ -78,3 +78,16 @@ Welcome to my GitHub! I'm a **third-year Computer Science student** with an insa
 ---
 
 > *"Building tech solutions that empower communities, fueled by innovation and creative expression."*
+
+
+<div align="left">
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lachgarsamia&theme=tokyonight&show_icons=true" height=150 />
+</a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachgarsamia&langs_count=5&theme=tokyonight" height=150 />
+</a>
+<br>
+
+</div>
+</div>
