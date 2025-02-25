@@ -77,7 +77,7 @@ I am a dedicated **Computer Science** devotee, weaving together **creativity**, 
   <a href="mailto:samia.lachgar@um6p.ma">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/samialachgar">
+  <a href="https://www.linkedin.com/in/samia-lachgar-19b13821a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
