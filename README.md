@@ -1,105 +1,87 @@
-# 🌟 Hello, World! I'm **Samia Lachgar** 👩‍💻🎶
-### *Aspiring Computer Science Engineer | Future Professor-Researcher | AI Enthusiast*
+<h1 align="center">Hello, I'm <span style="color:#FF6EC7">Samia Lachgar</span> 👩‍💻🎶</h1>
 
-Welcome to my GitHub! I'm a **third-year Computer Science student** with an insatiable curiosity for all things **machine learning, full-stack development, and high-performance computing**. I love building **creative solutions** that fuse technology, art, and community impact—whether it’s designing user-friendly UIs, optimizing back-end architecture, or leading innovative workshops.
-
-🔍 My current focus includes **AI chatbots, recommendation systems, Java Spring Boot applications, and cloud-driven solutions**.
-
----
-
-
-
-## 🛠️ Tech Stack
-![C++ Badge](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-ead41c?style=flat&logo=javascript&logoColor=black)
-![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React Badge](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black)
-![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
-![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-- **Frameworks/Libraries:** Spring Boot, Hibernate, Firebase, FastAPI  
-- **Databases:** MySQL, PostgreSQL, Firebase Realtime DB  
-- **Tools:** Git, Docker, CUDA, Slurm  
-- **Key Focus Areas:** Machine Learning, High-Performance Computing (HPC), AI Chatbots, Cloud Integration  
+<p align="center">
+  <em>
+    🏫 <strong>Third-year Computer Science Student</strong> at <strong>UM6P</strong><br />
+    💻 Exploring <strong>Machine Learning</strong>, <strong>Full-stack Development</strong> & <strong>High-Performance Computing (HPC)</strong><br />
+    🎨 Fusing <strong>Art</strong> & <strong>Technology</strong> to spark innovation & community impact
+  </em>
+</p>
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 About Me  
+I am a dedicated **Computer Science** devotee, weaving together **creativity**, **technical expertise**, and **community-driven innovation**. I thrive on building solutions that **scale** (thanks to my passion for **HPC**!) and **delight** (thanks to my love for **art & design**).
 
-### AI-Powered Discord Chatbot | Paige
-- **Tech:** Python, FastAPI, PostgreSQL, Discord API, GPT-4o  
-- **Highlights:**
-  - Built an intelligent chatbot that automates engagement and storytelling in Discord communities.
-  - Integrated serverless architecture for scalable, real-time responses.
+- 🌱 **Currently diving into**:  
+  - **AI Chatbots**, **Recommendation Systems**  
+  - **Spring Boot** & **Vue 3** for <strong>full-stack web applications</strong>  
+  - **HPC & Cloud** to supercharge data processing and model training
 
-### Task Management App
-- **Tech:** Java (Spring Boot), Vue 3, Firebase  
-- **Highlights:**  
-  - Developed a full-stack **task management system** with a clean, user-friendly UI for creating and tracking tasks.  
-  - Leveraged **Firebase** for real-time database sync and serverless features, ensuring quick load times.  
-  - Employed **Spring Boot** for reliable RESTful APIs and efficient data handling.
+- ⚙️ **Goal**: To **empower communities** through **sustainable, scalable**, and **innovative** tech solutions.
 
-### Moroccan Drive System
-- **Tech:** Java (Spring Boot), Vue 3, Firebase  
-- **Highlights:**
-  - Built a **secure cloud storage solution** tailored to Moroccan users, with local data handling considerations.
-  - Integrated **Firebase’s real-time capabilities** for safe file uploads/downloads.
-  - Created an elegant UI in **Vue 3**, providing minimal latency and smooth user experience.
-
-### Music Recommendation System
-- **Tech:** Python, Machine Learning  
-- **Highlights:**
-  - Created a collaborative filtering model achieving **85% user satisfaction** in personalized song suggestions.
-
-### Dynamic Quiz Application
-- **Tech:** Vue 3, Firebase  
-- **Highlights:**
-  - Built a dynamic quiz platform with real-time scoring and reduced load time by **30%**.
-
-### Bookstore Management System
-- **Tech:** Go, PostgreSQL, Docker  
-- **Highlights:**
-  - Designed and deployed a **RESTful API** for managing inventory, orders, and customer data.
-  - Employed **Docker** for consistent, scalable deployment.
-
-### Chess Game (Moroccan Dama Variant)
-- **Tech:** Java, OOP  
-- **Highlights:**
-  - Developed a culturally adapted chess/dama game showcasing unique mechanics and user-friendly UI.
+- 🌍 **Fun Fact**: My hobby as a **choir vocalist** and **painter** brings a burst of creativity to every line of code I write.
 
 ---
 
-## 🌍 Beyond Code
-- 🎶 **Musician & Choir Member** | Expressing creativity through music and performance  
-- 🎨 **Painter & Poet** | Infusing an artistic perspective into technical projects  
-- 🏆 **Leadership & Advocacy**:  
-  - **President**, ACM Chapter at UM6P → Hosted AI & Data Science workshops  
-  - **Communication Officer**, Cyborgs Robotics Club → Promoting robotics & innovation  
-  - **Ambassador**, Coop Amazigh Girls → Supporting cultural initiatives and inclusivity  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lachgarsamia&show_icons=true&theme=radical" alt="Samia's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lachgarsamia&theme=radical" alt="Samia's GitHub Streak" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
-- **LinkedIn**: [linkedin.com/in/samialachgar](https://linkedin.com/in/samialachgar)  
-- **Email**: samia.lachgar@um6p.ma  
+## 💡 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachgarsamia&layout=compact&theme=radical" alt="Samia's Top Langs" />
+</p>
 
 ---
 
-> *"Building tech solutions that empower communities, fueled by innovation and creative expression."*
+## 🔥 GitHub Activity Graph  
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lachgarsamia&theme=radical" alt="Samia's Activity Graph" />
+</p>
 
-<div align="left">
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=lachgarsamia&theme=tokyonight&show_icons=true" height=150 />
-</a>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachgarsamia&langs_count=5&theme=tokyonight" height=150 />
-</a>
-<br>
+---
 
+## 🏆 Tech Stack  
+
+<div align="center">
+  <!-- Icons from https://skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,vue,py,go,html,css,spring,mysql,postgres,redis,docker,kubernetes,git,firebase,vscode" />
 </div>
-</div>
+
+### ⚡ Additional Tools & Interests
+- **HPC & GPU Acceleration**: Experience with **CUDA**, **Slurm**, and distributed computing  
+- **AI Frameworks**: Pytorch, TensorFlow, scikit-learn  
+- **Databases**: **NoSQL** & **SQL** solutions for high-volume data  
+- **DevOps**: Docker, Kubernetes, CI/CD pipelines  
+
+---
+
+## 🔗 Some Resources
+
+- [**Daily.dev**](https://app.daily.dev/) | *Curated dev news right in your browser—stay current with the latest trends!*  
+- [**Shields.io**](https://shields.io/) | *Customize your README badges. Or [host your own instance](https://shields.io/endpoint) for full control!*  
+
+---
+
+## 📫 Let's Connect!  
+
+<p align="center">
+  <a href="mailto:samia.lachgar@um6p.ma">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/samialachgar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> **“Code is where logic meets poetry. Let’s craft a better future, one commit at a time!”**
